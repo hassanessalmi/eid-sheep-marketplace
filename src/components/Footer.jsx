@@ -31,8 +31,8 @@ function Footer() {
               {t('footer.contact')}
             </h3>
             <div className="space-y-2 text-gray-600 dark:text-gray-400">
-              <p>📧 contact@souklaid.ma</p>
-              <p>📱 +212 5XX-XXXXXX</p>
+              <p>📧 hassanessalmi30@gmail.com</p>
+              <p>📱0673977500</p>
               <p>📍 Maroc</p>
             </div>
           </div>

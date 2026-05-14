@@ -12,6 +12,8 @@ function ListingPage() {
   const [sheep, setSheep] = useState([])
   const [searchTerm, setSearchTerm] = useState('')
   const [showFilters, setShowFilters] = useState(false)
+  const [currentPage, setCurrentPage] = useState(1)
+  const itemsPerPage = 6
   const [filters, setFilters] = useState({
     city: '',
     breed: '',
@@ -29,6 +31,10 @@ function ListingPage() {
     }
   }, [i18n.language, searchParams])
 
+  useEffect(() => {
+    setCurrentPage(1)
+  }, [searchTerm, filters, i18n.language])
+
   const cities = [...new Set(sheep.map(s => s.city))].sort()
 
   const filteredSheep = sheep.filter(s => {
@@ -44,6 +50,28 @@ function ListingPage() {
 
     return matchesSearch && matchesCity && matchesBreed && matchesCategory && matchesPrice
   })
+
+  const totalPages = Math.ceil(filteredSheep.length / itemsPerPage)
+  const startIndex = (currentPage - 1) * itemsPerPage
+  const paginatedSheep = filteredSheep.slice(startIndex, startIndex + itemsPerPage)
+
+  const goToPage = (page) => {
+    if (page < 1 || page > totalPages) return
+    setCurrentPage(page)
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+
+  const getPageNumbers = () => {
+    const pages = []
+    const firstPage = Math.max(1, currentPage - 2)
+    const lastPage = Math.min(totalPages, currentPage + 2)
+
+    for (let page = firstPage; page <= lastPage; page += 1) {
+      pages.push(page)
+    }
+
+    return pages
+  }
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-300">
@@ -95,10 +123,53 @@ function ListingPage() {
                   {t('listing.showing', { count: filteredSheep.length })}
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {filteredSheep.map(s => (
+                  {paginatedSheep.map(s => (
                     <SheepCard key={s.id} sheep={s} />
                   ))}
                 </div>
+
+                {totalPages > 1 && (
+                  <div className="flex flex-wrap items-center justify-center gap-2 mt-10">
+                    <button
+                      type="button"
+                      onClick={() => goToPage(currentPage - 1)}
+                      disabled={currentPage === 1}
+                      className="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 
+                               text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800
+                               hover:bg-moroccan-green-50 dark:hover:bg-gray-700
+                               disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                    >
+                      Prev
+                    </button>
+
+                    {getPageNumbers().map(page => (
+                      <button
+                        key={page}
+                        type="button"
+                        onClick={() => goToPage(page)}
+                        className={`w-10 h-10 rounded-lg border transition-colors ${
+                          currentPage === page
+                            ? 'bg-moroccan-green-600 border-moroccan-green-600 text-white'
+                            : 'bg-white dark:bg-gray-800 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-moroccan-green-50 dark:hover:bg-gray-700'
+                        }`}
+                      >
+                        {page}
+                      </button>
+                    ))}
+
+                    <button
+                      type="button"
+                      onClick={() => goToPage(currentPage + 1)}
+                      disabled={currentPage === totalPages}
+                      className="px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 
+                               text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800
+                               hover:bg-moroccan-green-50 dark:hover:bg-gray-700
+                               disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+                    >
+                      Next
+                    </button>
+                  </div>
+                )}
               </>
             )}
           </div>
