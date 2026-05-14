@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 dark:bg-gray-900 transition-colors duration-300;
+  }
+
+  [dir="rtl"] body {
+    font-family: 'Cairo', sans-serif;
+  }
+
+  [dir="ltr"] body {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .card-hover {
+    @apply transition-all duration-300 hover:-translate-y-2 hover:shadow-xl;
+  }
+  
+  .btn-primary {
+    @apply bg-moroccan-green-600 text-white px-6 py-3 rounded-xl font-medium 
+           hover:bg-moroccan-green-700 transition-all duration-300 
+           transform hover:scale-105 active:scale-95 inline-block;
+  }
+  
+  .btn-whatsapp {
+    @apply bg-green-500 text-white px-6 py-3 rounded-xl font-medium 
+           hover:bg-green-600 transition-all duration-300 
+           transform hover:scale-105 active:scale-95 inline-flex items-center justify-center gap-2;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100 dark:bg-gray-800;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-moroccan-green-600 rounded-full;
+}

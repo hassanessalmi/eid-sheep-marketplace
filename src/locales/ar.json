@@ -1,0 +1,94 @@
+{
+  "site": {
+    "name": "سوق العيد",
+    "tagline": "سوقك الموثوق لشراء أضحية العيد"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "allSheep": "جميع الأضاحي",
+    "language": "اللغة"
+  },
+  "hero": {
+    "title": "اعثر على أضحيتك",
+    "subtitle": "المثالية للعيد",
+    "description": "تصفح أفضل مجموعة من الأضاحي من بائعين موثوقين في جميع أنحاء المغرب. تواصل مباشرة واستعد لعيد أضحى مبارك.",
+    "browseListings": "تصفح الأضاحي",
+    "featuredSheep": "أضاحي مميزة",
+    "stats": {
+      "available": "أضحية متاحة",
+      "cities": "مدينة",
+      "contact": "تواصل مباشر"
+    }
+  },
+  "featured": {
+    "title": "أضاحي مميزة",
+    "description": "مجموعة مختارة يدوياً من أفضل الأضاحي للعيد"
+  },
+  "categories": {
+    "title": "تصفح حسب الفئة",
+    "premium": {
+      "name": "ممتازة",
+      "description": "أضاحي عالية الجودة من أفضل السلالات"
+    },
+    "standard": {
+      "name": "متوسطة",
+      "description": "جودة ممتازة بأسعار معقولة"
+    },
+    "economy": {
+      "name": "اقتصادية",
+      "description": "خيارات مناسبة لجميع الميزانيات"
+    }
+  },
+  "listing": {
+    "title": "جميع الأضاحي",
+    "description": "تصفح مجموعتنا الكاملة من أضاحي العيد",
+    "searchPlaceholder": "ابحث بالاسم أو السلالة أو المدينة...",
+    "showFilters": "إظهار الفلاتر",
+    "hideFilters": "إخفاء الفلاتر",
+    "noResults": "لم يتم العثور على أضاحي",
+    "noResultsDesc": "حاول تعديل بحثك أو الفلاتر",
+    "showing": "عرض {{count}} أضحية",
+    "filters": {
+      "title": "الفلاتر",
+      "city": "المدينة",
+      "allCities": "جميع المدن",
+      "breed": "السلالة",
+      "allBreeds": "جميع السلالات",
+      "category": "الفئة",
+      "allCategories": "جميع الفئات",
+      "maxPrice": "أقصى سعر",
+      "reset": "إعادة تعيين"
+    }
+  },
+  "sheepCard": {
+    "viewDetails": "عرض التفاصيل ←",
+    "whatsapp": "واتساب",
+    "weight": "كغ",
+    "category": "الفئة"
+  },
+  "details": {
+    "backToListings": "← العودة للقائمة",
+    "notFound": "الأضحية غير موجودة",
+    "category": "الفئة",
+    "breed": "السلالة",
+    "weight": "الوزن",
+    "age": "العمر",
+    "color": "اللون",
+    "location": "الموقع",
+    "seller": "معلومات البائع",
+    "rating": "التقييم",
+    "contactWhatsapp": "💬 تواصل مع البائع عبر واتساب",
+    "description": "الوصف",
+    "specifications": "المواصفات"
+  },
+  "footer": {
+    "about": "سوق العيد - سوقك الموثوق للأضاحي",
+    "quickLinks": "روابط سريعة",
+    "contact": "اتصل بنا",
+    "rights": "© 2024 سوق العيد. جميع الحقوق محفوظة. عيد مبارك! 🐑"
+  },
+  "whatsapp": {
+    "message": "السلام عليكم! أنا مهتم بـ {{name}}"
+  },
+  "darkMode": "الوضع الليلي"
+}

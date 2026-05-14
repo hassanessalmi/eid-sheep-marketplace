@@ -1,0 +1,94 @@
+{
+  "site": {
+    "name": "Souk L'Aid",
+    "tagline": "Votre marché de confiance pour le mouton de l'Aïd"
+  },
+  "nav": {
+    "home": "Accueil",
+    "allSheep": "Tous les moutons",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Trouvez votre mouton",
+    "subtitle": "parfait pour l'Aïd",
+    "description": "Parcourez la meilleure sélection de moutons auprès de vendeurs de confiance à travers le Maroc. Connectez-vous directement et préparez-vous pour un Aïd Al-Adha béni.",
+    "browseListings": "Voir les annonces",
+    "featuredSheep": "Moutons en vedette",
+    "stats": {
+      "available": "Moutons disponibles",
+      "cities": "Villes",
+      "contact": "Contact direct"
+    }
+  },
+  "featured": {
+    "title": "Moutons en vedette",
+    "description": "Sélection triée sur le volet des meilleurs moutons pour l'Aïd"
+  },
+  "categories": {
+    "title": "Parcourir par catégorie",
+    "premium": {
+      "name": "Premium",
+      "description": "Moutons de haute qualité des meilleures races"
+    },
+    "standard": {
+      "name": "Standard",
+      "description": "Excellente qualité à prix raisonnable"
+    },
+    "economy": {
+      "name": "Économique",
+      "description": "Options abordables pour tous les budgets"
+    }
+  },
+  "listing": {
+    "title": "Tous les moutons",
+    "description": "Parcourez notre collection complète de moutons de l'Aïd",
+    "searchPlaceholder": "Rechercher par nom, race ou ville...",
+    "showFilters": "Afficher les filtres",
+    "hideFilters": "Masquer les filtres",
+    "noResults": "Aucun mouton trouvé",
+    "noResultsDesc": "Essayez de modifier votre recherche ou vos filtres",
+    "showing": "Affichage de {{count}} moutons",
+    "filters": {
+      "title": "Filtres",
+      "city": "Ville",
+      "allCities": "Toutes les villes",
+      "breed": "Race",
+      "allBreeds": "Toutes les races",
+      "category": "Catégorie",
+      "allCategories": "Toutes les catégories",
+      "maxPrice": "Prix maximum",
+      "reset": "Réinitialiser"
+    }
+  },
+  "sheepCard": {
+    "viewDetails": "Voir détails →",
+    "whatsapp": "WhatsApp",
+    "weight": "kg",
+    "category": "Catégorie"
+  },
+  "details": {
+    "backToListings": "← Retour aux annonces",
+    "notFound": "Mouton non trouvé",
+    "category": "Catégorie",
+    "breed": "Race",
+    "weight": "Poids",
+    "age": "Âge",
+    "color": "Couleur",
+    "location": "Localisation",
+    "seller": "Information du vendeur",
+    "rating": "Évaluation",
+    "contactWhatsapp": "💬 Contacter le vendeur sur WhatsApp",
+    "description": "Description",
+    "specifications": "Spécifications"
+  },
+  "footer": {
+    "about": "Souk L'Aid - Votre marché de confiance pour les moutons",
+    "quickLinks": "Liens rapides",
+    "contact": "Contact",
+    "rights": "© 2024 Souk L'Aid. Tous droits réservés. Aïd Mubarak! 🐑"
+  },
+  "whatsapp": {
+    "message": "Bonjour! Je suis intéressé par {{name}}"
+  },
+  "darkMode": "Mode sombre"
+}

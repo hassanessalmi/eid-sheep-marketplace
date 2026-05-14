@@ -1,0 +1,42 @@
+[
+  {
+    "id": "aa877a0af9",
+    "name": "Mouton",
+    "price": 0,
+    "city": "Maroc",
+    "source": "lebergier-maroc.com",
+    "url": "https://lebergier-maroc.com/",
+    "image": "https://lebergier-maroc.com/favicon.svg",
+    "description": "La Bergerie Accueil Nos Moutons Contact WhatsApp"
+  },
+  {
+    "id": "1dca6520a2",
+    "name": "Mouton",
+    "price": 0,
+    "city": "Maroc",
+    "source": "lebergier-maroc.com",
+    "url": "https://lebergier-maroc.com/#accueil",
+    "image": "",
+    "description": "Accueil Nos Moutons Contact"
+  },
+  {
+    "id": "429f38e275",
+    "name": "",
+    "price": 0,
+    "city": "Maroc",
+    "source": "lebergier-maroc.com",
+    "url": "https://lebergier-maroc.com/#moutons",
+    "image": "",
+    "description": "Voir les moutons disponibles ↓"
+  },
+  {
+    "id": "8bebf8dd8a",
+    "name": "Contact",
+    "price": 0,
+    "city": "Maroc",
+    "source": "lebergier-maroc.com",
+    "url": "https://lebergier-maroc.com/#",
+    "image": "https://lebergier-maroc.com/icons/whatsapp.svg",
+    "description": "🐑 La Bergerie Élevage familial de moutons de qualité pour l'Aïd Al Adha. Races pures marocaines élevées naturellement dans le respect de la tradition. Contact +212 600 000 000 Région de Casablanca, Maroc Disponible tous les jours 8h–20h Liens rapides Accueil Nos Moutons Contacter sur WhatsApp © 2026"
+  }
+]

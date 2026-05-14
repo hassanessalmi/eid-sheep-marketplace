@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "bb00803934",
+    "name": "سردي 1",
+    "price": 4973,
+    "weight": 39,
+    "breed": "سردي",
+    "city": "فاس",
+    "age": "سنتان",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0682916184",
+      "rating": 4.4,
+      "location": "فاس",
+      "experience": 5
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": true,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "7131d85182",
+    "name": "سردي 2",
+    "price": 3380,
+    "weight": 55,
+    "breed": "سردي",
+    "city": "مراكش",
+    "age": "3 سنوات",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0664699027",
+      "rating": 4.6,
+      "location": "مراكش",
+      "experience": 13
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": true,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "ab54a3bab2",
+    "name": "سردي 3",
+    "price": 5437,
+    "weight": 66,
+    "breed": "سردي",
+    "city": "طنجة",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0656616132",
+      "rating": 4.3,
+      "location": "طنجة",
+      "experience": 14
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": true,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "4c82b332c1",
+    "name": "بني كيل 4",
+    "price": 3449,
+    "weight": 60,
+    "breed": "بني كيل",
+    "city": "الرباط",
+    "age": "سنة واحدة",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0683808954",
+      "rating": 4.9,
+      "location": "الرباط",
+      "experience": 12
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": true,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "7ffad6de24",
+    "name": "بني كيل 5",
+    "price": 4526,
+    "weight": 36,
+    "breed": "بني كيل",
+    "city": "الدار البيضاء",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0624349655",
+      "rating": 4.4,
+      "location": "الدار البيضاء",
+      "experience": 4
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": true,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "580995c770",
+    "name": "تيمحضيت 6",
+    "price": 4903,
+    "weight": 66,
+    "breed": "تيمحضيت",
+    "city": "مراكش",
+    "age": "سنة واحدة",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0610250980",
+      "rating": 4.0,
+      "location": "مراكش",
+      "experience": 10
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "8b0207e751",
+    "name": "بني كيل 7",
+    "price": 5740,
+    "weight": 35,
+    "breed": "بني كيل",
+    "city": "طنجة",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0684454825",
+      "rating": 3.7,
+      "location": "طنجة",
+      "experience": 5
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "a29a223831",
+    "name": "سردي 8",
+    "price": 4664,
+    "weight": 60,
+    "breed": "سردي",
+    "city": "الدار البيضاء",
+    "age": "3 سنوات",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0634549054",
+      "rating": 4.1,
+      "location": "الدار البيضاء",
+      "experience": 15
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "a7f8b5d854",
+    "name": "بني كيل 9",
+    "price": 3648,
+    "weight": 46,
+    "breed": "بني كيل",
+    "city": "فاس",
+    "age": "3 سنوات",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0630114388",
+      "rating": 3.7,
+      "location": "فاس",
+      "experience": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "93880f5203",
+    "name": "سردي 10",
+    "price": 3970,
+    "weight": 43,
+    "breed": "سردي",
+    "city": "الرباط",
+    "age": "3 سنوات",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0666314670",
+      "rating": 4.1,
+      "location": "الرباط",
+      "experience": 4
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "64e2bebe41",
+    "name": "سردي 11",
+    "price": 3056,
+    "weight": 48,
+    "breed": "سردي",
+    "city": "الرباط",
+    "age": "سنتان",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0643072082",
+      "rating": 4.5,
+      "location": "الرباط",
+      "experience": 12
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "da57210ee7",
+    "name": "تيمحضيت 12",
+    "price": 4771,
+    "weight": 37,
+    "breed": "تيمحضيت",
+    "city": "الرباط",
+    "age": "سنتان",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0673276265",
+      "rating": 4.3,
+      "location": "الرباط",
+      "experience": 5
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "aac7aef8fc",
+    "name": "بني كيل 13",
+    "price": 4585,
+    "weight": 41,
+    "breed": "بني كيل",
+    "city": "طنجة",
+    "age": "سنتان",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0610816149",
+      "rating": 4.9,
+      "location": "طنجة",
+      "experience": 6
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "d005ac397a",
+    "name": "بني كيل 14",
+    "price": 2792,
+    "weight": 65,
+    "breed": "بني كيل",
+    "city": "مراكش",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0626726048",
+      "rating": 4.8,
+      "location": "مراكش",
+      "experience": 15
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "11c0e879bc",
+    "name": "سردي 15",
+    "price": 5608,
+    "weight": 35,
+    "breed": "سردي",
+    "city": "الرباط",
+    "age": "3 سنوات",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0641974628",
+      "rating": 3.7,
+      "location": "الرباط",
+      "experience": 15
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "c00b5e9dfb",
+    "name": "تيمحضيت 16",
+    "price": 4756,
+    "weight": 36,
+    "breed": "تيمحضيت",
+    "city": "طنجة",
+    "age": "3 سنوات",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0698874869",
+      "rating": 3.7,
+      "location": "طنجة",
+      "experience": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "f20096e621",
+    "name": "بني كيل 17",
+    "price": 3467,
+    "weight": 48,
+    "breed": "بني كيل",
+    "city": "الرباط",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0686247361",
+      "rating": 4.9,
+      "location": "الرباط",
+      "experience": 9
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "a4cd330681",
+    "name": "سردي 18",
+    "price": 4528,
+    "weight": 38,
+    "breed": "سردي",
+    "city": "طنجة",
+    "age": "سنتان",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0674002508",
+      "rating": 4.3,
+      "location": "طنجة",
+      "experience": 10
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "fe338ddfe8",
+    "name": "بني كيل 19",
+    "price": 3557,
+    "weight": 45,
+    "breed": "بني كيل",
+    "city": "فاس",
+    "age": "3 سنوات",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0618276538",
+      "rating": 4.0,
+      "location": "فاس",
+      "experience": 9
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "caa1dead2e",
+    "name": "تيمحضيت 20",
+    "price": 5626,
+    "weight": 59,
+    "breed": "تيمحضيت",
+    "city": "طنجة",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0661690923",
+      "rating": 4.0,
+      "location": "طنجة",
+      "experience": 14
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "140186689a",
+    "name": "بني كيل 21",
+    "price": 3772,
+    "weight": 71,
+    "breed": "بني كيل",
+    "city": "الدار البيضاء",
+    "age": "3 سنوات",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0694475547",
+      "rating": 3.8,
+      "location": "الدار البيضاء",
+      "experience": 13
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "ce711ef721",
+    "name": "تيمحضيت 22",
+    "price": 5662,
+    "weight": 68,
+    "breed": "تيمحضيت",
+    "city": "الدار البيضاء",
+    "age": "سنتان",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0680639430",
+      "rating": 4.5,
+      "location": "الدار البيضاء",
+      "experience": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "3c11e72f3d",
+    "name": "سردي 23",
+    "price": 4643,
+    "weight": 63,
+    "breed": "سردي",
+    "city": "الرباط",
+    "age": "سنة واحدة",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0643959363",
+      "rating": 4.8,
+      "location": "الرباط",
+      "experience": 14
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "24b327847f",
+    "name": "بني كيل 24",
+    "price": 3462,
+    "weight": 63,
+    "breed": "بني كيل",
+    "city": "طنجة",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0646187389",
+      "rating": 3.5,
+      "location": "طنجة",
+      "experience": 10
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "c087272b83",
+    "name": "سردي 25",
+    "price": 3362,
+    "weight": 60,
+    "breed": "سردي",
+    "city": "مراكش",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0673398787",
+      "rating": 4.6,
+      "location": "مراكش",
+      "experience": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "dae7e1e90e",
+    "name": "بني كيل 26",
+    "price": 2663,
+    "weight": 62,
+    "breed": "بني كيل",
+    "city": "فاس",
+    "age": "سنتان",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0670974642",
+      "rating": 3.8,
+      "location": "فاس",
+      "experience": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "41dadeb026",
+    "name": "تيمحضيت 27",
+    "price": 2866,
+    "weight": 45,
+    "breed": "تيمحضيت",
+    "city": "طنجة",
+    "age": "3 سنوات",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0612363274",
+      "rating": 3.8,
+      "location": "طنجة",
+      "experience": 4
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "0ac0c056d8",
+    "name": "سردي 28",
+    "price": 5796,
+    "weight": 46,
+    "breed": "سردي",
+    "city": "مراكش",
+    "age": "سنتان",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0628913670",
+      "rating": 4.8,
+      "location": "مراكش",
+      "experience": 13
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "cc337326a1",
+    "name": "سردي 29",
+    "price": 2609,
+    "weight": 37,
+    "breed": "سردي",
+    "city": "الدار البيضاء",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0664684657",
+      "rating": 3.6,
+      "location": "الدار البيضاء",
+      "experience": 9
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "d4d2ec5f63",
+    "name": "سردي 30",
+    "price": 4690,
+    "weight": 66,
+    "breed": "سردي",
+    "city": "طنجة",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0683736495",
+      "rating": 3.7,
+      "location": "طنجة",
+      "experience": 6
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "2cadeb900c",
+    "name": "سردي 31",
+    "price": 5434,
+    "weight": 36,
+    "breed": "سردي",
+    "city": "الرباط",
+    "age": "3 سنوات",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0697991511",
+      "rating": 4.7,
+      "location": "الرباط",
+      "experience": 15
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "bac79c72bf",
+    "name": "تيمحضيت 32",
+    "price": 4743,
+    "weight": 53,
+    "breed": "تيمحضيت",
+    "city": "مراكش",
+    "age": "سنتان",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0676866833",
+      "rating": 4.0,
+      "location": "مراكش",
+      "experience": 13
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "0102d64ff7",
+    "name": "تيمحضيت 33",
+    "price": 3576,
+    "weight": 63,
+    "breed": "تيمحضيت",
+    "city": "الدار البيضاء",
+    "age": "3 سنوات",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0644247213",
+      "rating": 4.8,
+      "location": "الدار البيضاء",
+      "experience": 14
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "54f7964d7e",
+    "name": "سردي 34",
+    "price": 3400,
+    "weight": 35,
+    "breed": "سردي",
+    "city": "فاس",
+    "age": "سنتان",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0691278586",
+      "rating": 3.9,
+      "location": "فاس",
+      "experience": 11
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "fb757ab34e",
+    "name": "بني كيل 35",
+    "price": 4770,
+    "weight": 68,
+    "breed": "بني كيل",
+    "city": "مراكش",
+    "age": "سنتان",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0619883813",
+      "rating": 4.1,
+      "location": "مراكش",
+      "experience": 5
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "e6fef3b228",
+    "name": "تيمحضيت 36",
+    "price": 3842,
+    "weight": 51,
+    "breed": "تيمحضيت",
+    "city": "فاس",
+    "age": "سنة واحدة",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0647455976",
+      "rating": 4.6,
+      "location": "فاس",
+      "experience": 14
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "7afa6ad0e5",
+    "name": "تيمحضيت 37",
+    "price": 4510,
+    "weight": 70,
+    "breed": "تيمحضيت",
+    "city": "فاس",
+    "age": "3 سنوات",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0681902369",
+      "rating": 4.5,
+      "location": "فاس",
+      "experience": 11
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "9fd8d241e5",
+    "name": "تيمحضيت 38",
+    "price": 3826,
+    "weight": 74,
+    "breed": "تيمحضيت",
+    "city": "مراكش",
+    "age": "3 سنوات",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0670370535",
+      "rating": 4.0,
+      "location": "مراكش",
+      "experience": 9
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "a6481964f8",
+    "name": "سردي 39",
+    "price": 2552,
+    "weight": 65,
+    "breed": "سردي",
+    "city": "فاس",
+    "age": "3 سنوات",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0694025667",
+      "rating": 3.9,
+      "location": "فاس",
+      "experience": 7
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "2e8a2888e9",
+    "name": "تيمحضيت 40",
+    "price": 2880,
+    "weight": 51,
+    "breed": "تيمحضيت",
+    "city": "فاس",
+    "age": "سنة واحدة",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0667300867",
+      "rating": 4.8,
+      "location": "فاس",
+      "experience": 8
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "10456fab88",
+    "name": "تيمحضيت 41",
+    "price": 5493,
+    "weight": 67,
+    "breed": "تيمحضيت",
+    "city": "الدار البيضاء",
+    "age": "سنتان",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0638898052",
+      "rating": 3.8,
+      "location": "الدار البيضاء",
+      "experience": 7
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "b38996fc25",
+    "name": "تيمحضيت 42",
+    "price": 5947,
+    "weight": 61,
+    "breed": "تيمحضيت",
+    "city": "طنجة",
+    "age": "3 سنوات",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0664131227",
+      "rating": 3.6,
+      "location": "طنجة",
+      "experience": 12
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "c72ec4a6d7",
+    "name": "بني كيل 43",
+    "price": 2639,
+    "weight": 61,
+    "breed": "بني كيل",
+    "city": "طنجة",
+    "age": "سنة واحدة",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "حسن",
+      "phone": "0655177764",
+      "rating": 4.2,
+      "location": "طنجة",
+      "experience": 7
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "b570c8a867",
+    "name": "تيمحضيت 44",
+    "price": 5342,
+    "weight": 55,
+    "breed": "تيمحضيت",
+    "city": "الرباط",
+    "age": "سنتان",
+    "color": "أسود",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0690495596",
+      "rating": 4.4,
+      "location": "الرباط",
+      "experience": 8
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "367d332e40",
+    "name": "سردي 45",
+    "price": 3418,
+    "weight": 43,
+    "breed": "سردي",
+    "city": "مراكش",
+    "age": "سنة واحدة",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "يوسف",
+      "phone": "0634755742",
+      "rating": 4.1,
+      "location": "مراكش",
+      "experience": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "b0249d0398",
+    "name": "تيمحضيت 46",
+    "price": 4390,
+    "weight": 70,
+    "breed": "تيمحضيت",
+    "city": "الرباط",
+    "age": "سنة واحدة",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0687537189",
+      "rating": 4.5,
+      "location": "الرباط",
+      "experience": 14
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "959149c83d",
+    "name": "سردي 47",
+    "price": 4587,
+    "weight": 35,
+    "breed": "سردي",
+    "city": "الرباط",
+    "age": "سنتان",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف مغذى جيدًا ومناسب للأضحية.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0630637174",
+      "rating": 3.7,
+      "location": "الرباط",
+      "experience": 9
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "51cbd00117",
+    "name": "تيمحضيت 48",
+    "price": 3382,
+    "weight": 52,
+    "breed": "تيمحضيت",
+    "city": "مراكش",
+    "age": "سنة واحدة",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0656621540",
+      "rating": 4.8,
+      "location": "مراكش",
+      "experience": 15
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  },
+  {
+    "id": "0c19c16f6b",
+    "name": "تيمحضيت 49",
+    "price": 5555,
+    "weight": 68,
+    "breed": "تيمحضيت",
+    "city": "طنجة",
+    "age": "3 سنوات",
+    "color": "أبيض",
+    "category": "أضحية العيد",
+    "description": "خروف بجودة ممتازة من مربي موثوق.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "ضيعة الأطلس",
+      "phone": "0679673557",
+      "rating": 4.6,
+      "location": "طنجة",
+      "experience": 6
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "متوفر"
+  },
+  {
+    "id": "b291da944d",
+    "name": "تيمحضيت 50",
+    "price": 2871,
+    "weight": 36,
+    "breed": "تيمحضيت",
+    "city": "الدار البيضاء",
+    "age": "سنة واحدة",
+    "color": "بني",
+    "category": "أضحية العيد",
+    "description": "خروف بصحة جيدة جاهز لعيد الأضحى.",
+    "source": "بيانات تجريبية",
+    "url": "#",
+    "seller": {
+      "name": "أحمد",
+      "phone": "0657889832",
+      "rating": 3.8,
+      "location": "الدار البيضاء",
+      "experience": 7
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484557985045-edf25e08da73?w=600",
+      "https://images.unsplash.com/photo-1576548684993-94c86cd05bcc?w=600"
+    ],
+    "featured": false,
+    "delivery": "غير متوفر"
+  }
+]
